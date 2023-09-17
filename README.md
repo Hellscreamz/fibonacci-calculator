@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your system:
 
 - Enter an index in the input field and click "Submit" to calculate the Fibonacci value for that index.
 - The calculated values and seen indexes are displayed on the main page.
-### Keep in my for larger indexes it takes some time to calculate the result based on your system capabilities ###
+### Keep in mind for larger indexes takes longer time to calculate the result based on your system capabilities ###
 
 ## Cleanup
 
