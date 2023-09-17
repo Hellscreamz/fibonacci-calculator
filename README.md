@@ -48,5 +48,4 @@ docker-compose stop
 
 OR
 
-```bash
 docker-compose kill
